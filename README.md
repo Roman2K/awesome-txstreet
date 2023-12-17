@@ -43,7 +43,7 @@ _The man behind this awesome and successful idea._
 _Sources of the various components that make up a TxStreet instance._
 
 - [Frontend](https://github.com/txstreet/txstreet)
-- Backend REST API - _Private:_ ask [@tomx-eth]
+- Backend (REST API, websocket server) - _Private:_ ask [@tomx-eth]
 - [tmp-bulk-geth-api](https://github.com/txstreet/tmp-bulk-geth-api) - Bulk IPC
   requests to the geth node
 
