@@ -73,4 +73,7 @@ Format loosely inspired by that of [Awesome Go][awesome-go].
 
 Open to contributions, please open a pull request.
 
+License: [GNU AGPLv3][agplv3]
+
 [awesome-go]: https://github.com/avelino/awesome-go
+[agplv3]: https://choosealicense.com/licenses/agpl-3.0/
