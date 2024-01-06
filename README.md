@@ -12,7 +12,7 @@ created by [@tomx-eth].
 
 - [Website](https://txstreet.com/) - Official instance of TxStreet
 - [Instagram](https://www.instagram.com/txstreetcom/)
-- Telegram - _Private:_ ask [@tomx-eth]
+- [Telegram](https://t.me/txstreetdevs)
 - [Twitter](https://twitter.com/txstreetCom)
 
 ## Community-run instances
