@@ -53,9 +53,14 @@ _The mind behind this awesome and successful idea._
 _Sources of the various components that make up a TxStreet instance._
 
 - [Frontend](https://github.com/txstreet/txstreet)
-- Backend (REST API, websocket server) - _Private:_ ask [@tomx-eth]
+- [processor](https://github.com/txstreet/processor) - Backend: REST API,
+  websocket server, recurring tasks
+- [wiki](https://github.com/txstreet/wiki) - Not a wiki. Blockchain details,
+  translations
 - [tmp-bulk-geth-api](https://github.com/txstreet/tmp-bulk-geth-api) - Bulk IPC
   requests to the geth node
+- [storage](https://t.me/txstreetdevs/176) - Static resources hosted at
+  [storage.txstreet.com](https://storage.txstreet.com)
 
 ## Documentation
 
