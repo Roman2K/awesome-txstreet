@@ -10,7 +10,8 @@ created by [@tomx-eth].
 
 ## Official resources
 
-- [Website](https://txstreet.com/) - Official instance of TxStreet
+- [Website](https://txstreet.com/) - Index of forks, portal of official
+  material, previously the only instance of TxStreet
 - [Instagram](https://www.instagram.com/txstreetcom/)
 - [Telegram](https://t.me/txstreetdevs)
 - [Twitter](https://twitter.com/txstreetCom)
