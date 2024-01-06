@@ -26,12 +26,13 @@ _Online forks._
 
 ## Official announcements
 
+- [Decommissioning of the official instance](https://t.me/txstreetdevs/172)
+- [Phasing out of official instance](https://t.me/MWEB_Testnet/1/21654)
+- [First fork](https://twitter.com/txstreetCom/status/1725159931534340472)
 - [Open-sourcing of the
   frontend](https://twitter.com/txstreetCom/status/1691536989580034048)
-- [First fork](https://twitter.com/txstreetCom/status/1725159931534340472)
 - [Vitalik Buterin's
   endorsement](https://twitter.com/vitalikbuterin/status/1299892964160749570)
-- [Phasing out of official instance](https://t.me/MWEB_Testnet/1/21654)
 
 ### Litecoin MWEB integration
 
@@ -41,7 +42,7 @@ _Online forks._
 
 ### Author
 
-_The man behind this awesome and successful idea._
+_The mind behind this awesome and successful idea._
 
 - [GitHub][@tomx-eth]
 - [Twitter](https://twitter.com/tomxeth)
