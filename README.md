@@ -10,8 +10,8 @@ created by [@tomx-eth].
 
 ## Official resources
 
-- [Website](https://txstreet.com/) - Index of forks, portal of official
-  material, previously the only instance of TxStreet
+- [Website](https://txstreet.com/) - Portal of official, index of forks,
+  previously the only instance of TxStreet
 - [Instagram](https://www.instagram.com/txstreetcom/)
 - [Telegram](https://t.me/txstreetdevs)
 - [Twitter](https://twitter.com/txstreetCom)
@@ -20,8 +20,7 @@ created by [@tomx-eth].
 
 _Online forks._
 
-- [txcity.io](https://txcity.io) - Run by the team at [Onchain
-  Solutions](https://onchainsol.com)
+- [txcity.io](https://txcity.io) - Run by [Onchain Solutions](https://onchainsol.com)
 - [txnode.net](https://txnode.net/) - Run by [@Roman2K]
 - [txstreets.com](https://txstreets.com)
 
