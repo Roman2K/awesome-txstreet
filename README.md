@@ -15,6 +15,15 @@ created by [@tomx-eth].
 - Telegram - _Private:_ ask [@tomx-eth]
 - [Twitter](https://twitter.com/txstreetCom)
 
+## Community-run instances
+
+_Online forks._
+
+- [txcity.io](https://txcity.io) - Run by the team at [Onchain
+  Solutions](https://onchainsol.com)
+- [txnode.net](https://txnode.net/) - Run by [@Roman2K]
+- [txstreets.com](https://txstreets.com)
+
 ## Official announcements
 
 - [Open-sourcing of the
@@ -52,13 +61,6 @@ _Sources of the various components that make up a TxStreet instance._
 - [txstreet-deploy](https://github.com/Roman2K/txstreet-deploy) - Self-hosting
   tools and instructions
 
-## Alternative instances
-
-_Other online instances, whether forks or plain mirrors._
-
-- [txcity.io](https://txcity.io) - Run by the team at [Onchain
-  Solutions](https://onchainsol.com)
-
 ## Hosting services
 
 _Specialized TxStreet hosting: frontend, backend, and full nodes._
@@ -77,3 +79,4 @@ License: [GNU AGPLv3][agplv3]
 
 [awesome-go]: https://github.com/avelino/awesome-go
 [agplv3]: https://choosealicense.com/licenses/agpl-3.0/
+[@Roman2K]: https://github.com/Roman2K
