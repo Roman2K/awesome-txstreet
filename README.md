@@ -24,6 +24,20 @@ _Online forks._
 - [txnode.net](https://txnode.net/) - Run by [@Roman2K]
 - [txstreets.com](https://txstreets.com)
 
+## Source code
+
+_Sources of the various components that make up a TxStreet instance._
+
+- [Frontend](https://github.com/txstreet/txstreet)
+- [processor](https://github.com/txstreet/processor) - Backend: REST API,
+  websocket server, recurring tasks
+- [wiki](https://github.com/txstreet/wiki) - Not a wiki. Blockchain details,
+  translations
+- [tmp-bulk-geth-api](https://github.com/txstreet/tmp-bulk-geth-api) - Bulk IPC
+  requests to the geth node
+- [storage](https://t.me/txstreetdevs/176) - Static resources hosted at
+  [storage.txstreet.com](https://storage.txstreet.com)
+
 ## Official announcements
 
 - [Decommissioning of the official instance](https://t.me/txstreetdevs/172)
@@ -40,27 +54,13 @@ _Online forks._
 - [Logo for MWEB transactions](https://t.me/MWEB_Testnet/1/19137)
 - [Feedback before deployment](https://t.me/MWEB_Testnet/1/19265)
 
-### Author
+## Author
 
 _The mind behind this awesome and successful idea._
 
 - [GitHub][@tomx-eth]
 - [Twitter](https://twitter.com/tomxeth)
 - [MoonHeads](https://moonheads.io/) - Official NFTs of TxStreet with perks
-
-## Source code
-
-_Sources of the various components that make up a TxStreet instance._
-
-- [Frontend](https://github.com/txstreet/txstreet)
-- [processor](https://github.com/txstreet/processor) - Backend: REST API,
-  websocket server, recurring tasks
-- [wiki](https://github.com/txstreet/wiki) - Not a wiki. Blockchain details,
-  translations
-- [tmp-bulk-geth-api](https://github.com/txstreet/tmp-bulk-geth-api) - Bulk IPC
-  requests to the geth node
-- [storage](https://t.me/txstreetdevs/176) - Static resources hosted at
-  [storage.txstreet.com](https://storage.txstreet.com)
 
 ## Documentation
 
