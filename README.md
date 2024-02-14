@@ -14,15 +14,18 @@ created by [@tomx-eth].
   forks, former single instance of TxStreet
 - [Instagram](https://www.instagram.com/txstreetcom/)
 - [Telegram](https://t.me/txstreetdevs)
-- [Twitter](https://twitter.com/txstreetCom)
+- [X/Twitter](https://twitter.com/txstreetCom)
 
 ## Community-run instances
 
 _Known online instances._
 
 - [tx.town](https://tx.town) - Run by [@Roman2K]
+  - Updates [on X/Twitter](https://twitter.com/TxDotTown)
 - [cryptostreets.io](https://cryptostreets.io) - Rub by [@web3dopamine]
+  - Updates [on X/Twitter](https://twitter.com/web3dopamine)
 - [txstreets.com](https://txstreets.com) - Run by [Onchain Solutions](https://onchainsol.com)
+  - Updates at [onchainsol.com](https://onchainsol.com)
 
 ## Source code
 
@@ -72,7 +75,7 @@ _Known forks._
 _The mind behind this awesome and successful idea._
 
 - [GitHub][@tomx-eth]
-- [Twitter](https://twitter.com/tomxeth)
+- [X/Twitter](https://twitter.com/tomxeth)
 - [MoonHeads](https://moonheads.io/) - Official NFTs of TxStreet with perks
 
 ## Documentation
