@@ -18,7 +18,7 @@ created by [@tomx-eth].
 
 ## Community-run instances
 
-_Online forks._
+_Known online instances._
 
 - [tx.town](https://tx.town) - Run by [@Roman2K]
 - [cryptostreets.io](https://cryptostreets.io) - Rub by [@web3dopamine]
@@ -37,6 +37,18 @@ _Sources of the various components that make up a TxStreet instance._
   requests to the geth node
 - [storage](https://t.me/txstreetdevs/176) - Static resources hosted at
   `storage.txstreet.com`
+
+### Forks
+
+_Known forks._
+
+- Of the frontend:
+  - [Roman2K/txstreet](https://github.com/Roman2K/txstreet)
+- Of `processor`:
+  - [Roman2K/txstreet-processor](https://github.com/Roman2K/txstreet-processor)
+- Of `tmp-bulk-geth-api`:
+  - [Roman2K/txstreet-bulk-eth-api](https://github.com/Roman2K/txstreet-bulk-eth-api)
+  - [Roman2K/txstreet-bulk-geth-api](https://github.com/Roman2K/txstreet-bulk-geth-api)
 
 ## Official announcements
 
