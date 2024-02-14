@@ -12,8 +12,8 @@ created by [@tomx-eth].
 
 - [Website](https://txstreet.com/) - Portal of official resources, index of
   forks, former single instance of TxStreet
+- [Telegram](https://t.me/txstreetdevs) - Developers discussion group
 - [Instagram](https://www.instagram.com/txstreetcom/)
-- [Telegram](https://t.me/txstreetdevs)
 - [X/Twitter](https://twitter.com/txstreetCom)
 
 ## Community-run instances
