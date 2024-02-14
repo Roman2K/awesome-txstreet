@@ -10,8 +10,8 @@ created by [@tomx-eth].
 
 ## Official resources
 
-- [Website](https://txstreet.com/) - Portal of official, index of forks,
-  previously the only instance of TxStreet
+- [Website](https://txstreet.com/) - Portal of official resources, index of
+  forks, former single instance of TxStreet
 - [Instagram](https://www.instagram.com/txstreetcom/)
 - [Telegram](https://t.me/txstreetdevs)
 - [Twitter](https://twitter.com/txstreetCom)
@@ -20,9 +20,9 @@ created by [@tomx-eth].
 
 _Online forks._
 
-- [txcity.io](https://txcity.io) - Run by [Onchain Solutions](https://onchainsol.com)
-- [txnode.net](https://txnode.net/) - Run by [@Roman2K]
-- [txstreets.com](https://txstreets.com)
+- [tx.town](https://tx.town) - Run by [@Roman2K]
+- [cryptostreets.io](https://cryptostreets.io) - Rub by [@web3dopamine]
+- [txstreets.com](https://txstreets.com) - Run by [Onchain Solutions](https://onchainsol.com)
 
 ## Source code
 
@@ -36,7 +36,7 @@ _Sources of the various components that make up a TxStreet instance._
 - [tmp-bulk-geth-api](https://github.com/txstreet/tmp-bulk-geth-api) - Bulk IPC
   requests to the geth node
 - [storage](https://t.me/txstreetdevs/176) - Static resources hosted at
-  [storage.txstreet.com](https://storage.txstreet.com)
+  `storage.txstreet.com`
 
 ## Official announcements
 
@@ -86,3 +86,4 @@ License: [GNU AGPLv3][agplv3]
 [awesome-go]: https://github.com/avelino/awesome-go
 [agplv3]: https://choosealicense.com/licenses/agpl-3.0/
 [@Roman2K]: https://github.com/Roman2K
+[@web3dopamine]: https://github.com/web3dopamine
