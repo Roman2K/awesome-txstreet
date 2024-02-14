@@ -52,6 +52,7 @@ _Known forks._
 
 ## Official announcements
 
+- [Completely community-run](https://twitter.com/txstreetCom/status/1749132283930353809)
 - [Decommissioning of the official instance](https://t.me/txstreetdevs/172)
 - [Phasing out of official instance](https://t.me/MWEB_Testnet/1/21654)
 - [First fork](https://twitter.com/txstreetCom/status/1725159931534340472)
