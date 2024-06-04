@@ -22,7 +22,7 @@ _Known online instances._
 
 - [tx.town](https://tx.town) - Run by [@Roman2K]
   - Updates [on X/Twitter](https://twitter.com/TxDotTown)
-- [cryptostreets.io](https://cryptostreets.io) - Rub by [@web3dopamine]
+- [txcity.io](https://txcity.io) - Run by [@web3dopamine]
   - Updates [on X/Twitter](https://twitter.com/web3dopamine)
 - [txstreets.com](https://txstreets.com) - Run by [Onchain Solutions](https://onchainsol.com)
   - Updates at [onchainsol.com](https://onchainsol.com)
